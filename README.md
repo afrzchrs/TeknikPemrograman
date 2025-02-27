@@ -1,2 +1,2 @@
-Kuliah Teknik Pemrograman Pertemuan 1
+Kuliah Teknik Pemrograman 
 Afriza Choirie Saputra - 241524002
